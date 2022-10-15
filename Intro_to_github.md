@@ -20,7 +20,7 @@ In this article,  we will look at the Introduction To  GitHub: and discuss, what
 
 GitHub is a web-based graphical interface that allows developers, programmers, and content creators around the globe to store their projects on the cloud-based service; and share resources, collaborate, and keep track of their projects. <br>
 <br>
-![Github Signup-page](img/interface.png)
+![Github Signup-page](interface.png)
 
 ## Why GitHub?
 GitHub is a centralized platform that allows software developers around the globe; to host their git repository free:  The implementation of GitHub opens the door for effective management of projects.
@@ -52,7 +52,7 @@ Clone is the act of copying a git repository and creating a local copy on your m
 4. Then, click on choose and move toward the local path where you want to clone the repository.
 5. Finally, click on the clone.
 
-![Clone here](img/clone.png)
+![Clone here](clone.png)
 
 ## Pull Request
 
@@ -75,7 +75,7 @@ Then, do the following:
 <li>Finally, click Create a pull request to open a new pull request.</li>
 </ol
 
-![pull_request](img/pull_request.png)
+![pull_request](pull_request.png)
 
 ## Commit
 
